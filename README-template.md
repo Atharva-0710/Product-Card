@@ -45,8 +45,9 @@ I got to understand how the display : flex works and also learnt about pseudo st
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [w3schools](https://www.example.com) 
+- [mdnDocs](https://www.example.com) 
+- Both of the above mentioned resources have an excellent documentation where you can find solution to almost all your doubts.
 
 
 ## Author
